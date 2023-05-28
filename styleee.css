@@ -1,0 +1,19 @@
+body {
+    background-image: url("img/bg.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    /* max-width: 50%; */
+    /* border-style: groove; */
+    text-align: center;
+    color: aqua;
+}
+
+.dice{
+    
+    align-items: center;
+    display: inline-block;
+    padding: 50px;
+}
